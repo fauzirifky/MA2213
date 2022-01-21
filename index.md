@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Pengantar
 
-You can use the [editor on GitHub](https://github.com/rifkyfauzi9/MA2213.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Perangkat yang dibutuhkan
+
+1. [Akun Github](https://github.com)
+2. [NodeJS](https://nodejs.org/en/download/)
+3. [P5.JS](https://p5js.org/download/)
+4. [Visual Studio Code (editor teks)](https://code.visualstudio.com)
+6. [Git] (https://git-scm.com/download/win)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
