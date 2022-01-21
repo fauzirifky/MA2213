@@ -12,16 +12,20 @@ Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains
 7. Agen Otonom
 
 ### Penilaian
+#### Tugas dan Kuis (30%)
+> 
+> 
+#### Keaktifan (20%)
 #### Tugas Besar 1 (25%) 
-> Visualisasi data kependudukan dalam _dashboard_. Melalui tugas besar ini diharapkan mahasiswa 
+> Visualisasi data kependudukan dalam _dashboard_ (website). Melalui tugas besar ini diharapkan mahasiswa 
 1. mampu mengikuti prosedur permohonan data dan mampu mengkomunikasikan maksud permohonan data ke pihak desa.
 2. mampu membuat sebuah dashboard berdasarkan data yang diperoleh dari desa.
-> Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/raw/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data.docx)
+3. mampu membuat laman dashboard yang bisa diakses secara publik.
+< Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/raw/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data.docx)
 #### Tugas Besar 2 (25%)
 > Membangun program kawanan cerdas
 > 
-#### Tugas dan Kuis (30%)
-#### Keaktifan (20%)
+
 
 ### Perangkat yang dibutuhkan
 
