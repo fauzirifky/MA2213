@@ -11,20 +11,24 @@ Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains
 6. Sistem Partikel
 7. Agen Otonom
 
+### Referensi
+1. [Shiffman, D. (2012). The nature of code. D. Shiffman. (Pustaka Utama)](https://natureofcode.com)
+2. [McCarthy, L., Reas, C., & Fry, B. (2015). Getting started with P5. js: Making interactive graphics in JavaScript and processing. Maker Media, Inc.. (Pustaka Pendukung)](https://bit.ly/makeP5JS)
+3. [Arslan, E. (2018). Learn JavaScript with p5. js. (Pustaka Pendukung)](https://bit.ly/learnJSP5)
+
+
 ### Penilaian
 #### Tugas dan Kuis (30%)
-> 
-> 
 #### Keaktifan (20%)
 #### Tugas Besar 1 (25%) 
-> Visualisasi data kependudukan dalam _dashboard_ (website). Melalui tugas besar ini diharapkan mahasiswa 
+Visualisasi data kependudukan dalam _dashboard_ (website). Melalui tugas besar ini diharapkan mahasiswa 
 1. mampu mengikuti prosedur permohonan data dan mampu mengkomunikasikan maksud permohonan data ke pihak desa.
 2. mampu membuat sebuah dashboard berdasarkan data yang diperoleh dari desa.
 3. mampu membuat laman dashboard yang bisa diakses secara publik.
-< Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/raw/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data.docx)
+Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/raw/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data.docx)
 #### Tugas Besar 2 (25%)
-> Membangun program kawanan cerdas
-> 
+Membangun program kawanan cerdas.
+
 
 
 ### Perangkat yang dibutuhkan
