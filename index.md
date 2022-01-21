@@ -13,9 +13,9 @@ Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains
 
 ### Penilaian
 #### Tugas Besar 1 (25%) 
-Visualisasi data kependudukan dalam _dashboard_ 
+> Visualisasi data kependudukan dalam _dashboard_ 
 #### Tugas Besar 2 (25%)
-Membangun program kawanan cerdas
+> Membangun program kawanan cerdas
 #### Tugas dan Kuis (30%)
 #### Keaktifan (20%)
 
