@@ -2,10 +2,16 @@
 
 Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains.
 ### Pengantar
-Perkuliahan ini diperuntukkan bagi mahasiswa yang kelak akan berprofesi menjad
+"Mathematics posseses not only truth, but supreme beauty"
+Kecantikan matematika nampaknya tidak bisa dinikmati oleh banyak orang tanpa bisa diterjemahkan dengan bahasa yang sederhana. Kecantikan Matematika perlu dipancarkan dengan proses-proses visual. Dengan memvisualisasikan Matematika, harapannya masyarakat umum atau bahkan diri kita sendiri sebagai seorang pembelajar bisa menguatkan pemahaman mengenai Matematika. Mata kuliah Visualisasi dalam Sains merupakan mata kuliah yang bertujuan untuk melengkapi mahasiswa program studi Matematika Institut Teknologi Sumatera dengan muatan materi visual. Beberapa objek Matematika seperti turunan, statistika dasar, dan peluang secara ringkas digunakan untuk mengkaji fenomena sains. 
+
+Perkuliahan ini diperuntukkan bagi mahasiswa yang kelak akan berprofesi menjadi
 #### Edukator (Tutor, Guru atau Dosen)
-Pada beberapa kesempatan saya, seorang dosen, terkadang dituntut untuk menyajikan sesuatu yang lebih saat mengajarkan suatu topik, katakanlah 
+Pada beberapa kesempatan saya, seorang dosen, terkadang dituntut untuk menyajikan sesuatu yang lebih saat mengajarkan suatu topik, katakanlah materi laju terkait (Matematika Dasar II), cukup sulit jika hanya dijelaskan dalam gambar statis. Apalagi jika gambar tersebut hanya dijelaskan melalui coretan gambar tangan. Akan jauh lebih memudahkan jika ilustrasi integral dapat dibuat dalam materi yang interaktif. Gagasan tersebut tentu dapat dikembangkan pada materi-materi matematika yang lain. Bahkan terkadang seorang edukator dituntut untuk membuat tulisan, katakanlah buku, yang mengharuskannya untuk "mencuri" gambar dari internet. Alangkah lebih baik jika gambar tersebut dapat dibuat sendiri. Namun gambar tersebut bukan gambar yang kaku, melainkan gambar yang dapat disesuaikan konteks dan masalahnya. 
+
+Sebagai seorang yang mengajarkan Matematika, seorang Edukator perlu dibekali dengan konten-konten visual agar dapat mengomunikasikan Matematika agar dapat mudah dipahami oleh peserta didiknya. 
 #### _IT related_ (programmer, perancang _software_, ilmuwan data, visual artist, dst)
+Cukup jelas. Karena perkuliahan ini menggunakan bahasa pemrograman JavaScript otomatis mahasiswa akan memiliki sedikit pengalaman untuk "mencicipi" bahasa ini melalui pengalaman menyelesaikan masalah yang berkaitan dengan Matematika dan fenomena Sains.
 
 ### Silabus
 1. Pemrograman dengan JavaScript
@@ -27,9 +33,10 @@ Pada beberapa kesempatan saya, seorang dosen, terkadang dituntut untuk menyajika
 #### Keaktifan (10%)
 #### Tugas Besar 1 (30%) 
 Visualisasi data kependudukan dalam _dashboard_ (website). Melalui tugas besar ini diharapkan mahasiswa 
-1. mampu mengikuti prosedur permohonan data dan mampu mengkomunikasikan maksud permohonan data ke pihak desa.
-2. mampu membuat sebuah dashboard berdasarkan data yang diperoleh dari desa.
+1. mampu mengikuti prosedur permohonan data dan mampu mengkomunikasikan maksud permohonan data ke pihak desa,
+2. mampu membuat sebuah dashboard berdasarkan data yang diperoleh dari desa,
 3. mampu membuat laman dashboard yang bisa diakses secara publik.
+
 Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/raw/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data.docx)
 #### Tugas Besar 2 (30%)
 Membangun program kawanan cerdas.
