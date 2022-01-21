@@ -13,7 +13,10 @@ Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains
 
 ### Penilaian
 #### Tugas Besar 1 (25%) 
-> Visualisasi data kependudukan dalam _dashboard_ 
+> Visualisasi data kependudukan dalam _dashboard_. Melalui tugas besar ini diharapkan mahasiswa 
+1. Mampu mengikuti prosedur permohonan data dan mampu mengkomunikasikan maksud permohonan data ke pihak desa.
+2. Membuat sebuah dashboard berdasarkan data yang diperoleh dari desa.
+ 
 #### Tugas Besar 2 (25%)
 > Membangun program kawanan cerdas
 #### Tugas dan Kuis (30%)
