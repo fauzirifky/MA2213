@@ -5,11 +5,11 @@ Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains
 
 ### Perangkat yang dibutuhkan
 
-1. [Akun Github](https://github.com)
+1. [Akun Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 2. [NodeJS](https://nodejs.org/en/download/)
 3. [P5.JS](https://p5js.org/download/)
 4. [Visual Studio Code (editor teks)](https://code.visualstudio.com)
-6. [Git] (https://git-scm.com/download/win)
+6. [Git](https://git-scm.com/download/win)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
