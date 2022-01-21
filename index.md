@@ -1,6 +1,11 @@
 ## Visualisasi dalam Sains (MA2213)
 
 Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains.
+### Pengantar
+Perkuliahan ini diperuntukkan bagi mahasiswa yang kelak akan berprofesi menjad
+#### Edukator (Tutor, Guru atau Dosen)
+Pada beberapa kesempatan saya, seorang dosen, terkadang dituntut untuk menyajikan sesuatu yang lebih saat mengajarkan suatu topik, katakanlah 
+#### _IT related_ (programmer, perancang _software_, ilmuwan data, visual artist, dst)
 
 ### Silabus
 1. Pemrograman dengan JavaScript
@@ -19,14 +24,14 @@ Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains
 
 ### Penilaian
 #### Tugas dan Kuis (30%)
-#### Keaktifan (20%)
-#### Tugas Besar 1 (25%) 
+#### Keaktifan (10%)
+#### Tugas Besar 1 (30%) 
 Visualisasi data kependudukan dalam _dashboard_ (website). Melalui tugas besar ini diharapkan mahasiswa 
 1. mampu mengikuti prosedur permohonan data dan mampu mengkomunikasikan maksud permohonan data ke pihak desa.
 2. mampu membuat sebuah dashboard berdasarkan data yang diperoleh dari desa.
 3. mampu membuat laman dashboard yang bisa diakses secara publik.
 Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/raw/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data.docx)
-#### Tugas Besar 2 (25%)
+#### Tugas Besar 2 (30%)
 Membangun program kawanan cerdas.
 
 
