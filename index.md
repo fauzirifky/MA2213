@@ -8,6 +8,7 @@ Kecantikan matematika nampaknya tidak selalu bisa dinikmati oleh banyak orang ta
 Perkuliahan ini diperuntukkan bagi mahasiswa yang kelak akan berprofesi menjadi
 #### Edukator (Tutor, Guru atau Dosen)
 Pada beberapa kesempatan saya, seorang dosen, terkadang dituntut untuk menyajikan sesuatu yang lebih saat mengajarkan suatu topik, katakanlah materi laju terkait (Matematika Dasar I), cukup sulit jika hanya dijelaskan dalam gambar statis. Apalagi jika gambar tersebut hanya dijelaskan melalui coretan gambar tangan. Akan jauh lebih memudahkan jika ilustrasi integral dapat dibuat dalam materi yang interaktif. Gagasan tersebut tentu dapat dikembangkan pada materi-materi matematika yang lain. Bahkan terkadang seorang edukator dituntut untuk membuat tulisan, katakanlah buku, yang mengharuskannya untuk "mencuri" gambar dari internet. Alangkah lebih baik jika gambar tersebut dapat dibuat sendiri. Namun gambar tersebut bukan gambar yang kaku, melainkan gambar yang dapat disesuaikan konteks dan masalahnya. 
+
 ![](https://github.com/rifkyfauzi9/MA2213/blob/gh-pages/demo_laju_berkaitan.gif)
 
 Sebagai seorang yang mengajarkan Matematika, seorang Edukator perlu dibekali dengan konten-konten visual agar dapat mengomunikasikan Matematika agar dapat mudah dipahami oleh peserta didiknya. 
