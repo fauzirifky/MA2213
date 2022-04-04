@@ -42,10 +42,7 @@ Visualisasi data kependudukan dalam _dashboard_ (website). Melalui tugas besar i
 Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/blob/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data%20ver2.docx?raw=true)
 
 <details>
-  <summary>Tugas Besar 1 (UTS). Klik untuk melihat lebih lanjut</summary>
-  
-[31/03 17.40] Rifky FauziUTS Visualisasi dalam Sains
-    
+  <summary>Tugas Besar 1 (UTS). Klik untuk melihat lebih lanjut</summary>    
 #### Website Dashboard Data Desa
   1. Membuat Dashboard Data Kependudukan
 	2. Membuat Laporan
