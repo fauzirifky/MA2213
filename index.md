@@ -44,11 +44,13 @@ Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9
 <details>
   <summary>Tugas Besar 1 (UTS). Klik untuk melihat lebih lanjut</summary>    
 #### Website Dashboard Data Desa
+	
 	1. Membuat Dashboard Data Kependudukan
 	2. Membuat Laporan
 	3. Melakukan Permohonan Data
 
 #### Ketentuan Dashboard:
+	
 	1. Dashboard wajib memuat tampilan grafik data kependudukan desa (minimal 5 jenis data)
 	2. Masing-masing grafik wajib memuat informasi seperti judul, sumbu grafik, dan legenda
 	3. Masing-masing grafik wajib dibuat dalam bentuk fungsi dengan input berupa data
