@@ -39,7 +39,7 @@ Visualisasi data kependudukan dalam _dashboard_ (website). Melalui tugas besar i
 2. mampu membuat sebuah dashboard berdasarkan data yang diperoleh dari desa,
 3. mampu membuat laman dashboard yang bisa diakses secara publik.
 
-Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/raw/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data.docx)
+Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/blob/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data%20ver2.docx?raw=true)
 #### Tugas Besar 2 (30%)
 Membangun program kawanan cerdas.
 
