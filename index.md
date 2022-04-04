@@ -44,12 +44,12 @@ Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9
 <details>
   <summary>Tugas Besar 1 (UTS). Klik untuk melihat lebih lanjut</summary>    
 #### Website Dashboard Data Desa
-  1. Membuat Dashboard Data Kependudukan
+	1. Membuat Dashboard Data Kependudukan
 	2. Membuat Laporan
 	3. Melakukan Permohonan Data
 
 #### Ketentuan Dashboard:
-  1. Dashboard wajib memuat tampilan grafik data kependudukan desa (minimal 5 jenis data)
+	1. Dashboard wajib memuat tampilan grafik data kependudukan desa (minimal 5 jenis data)
 	2. Masing-masing grafik wajib memuat informasi seperti judul, sumbu grafik, dan legenda
 	3. Masing-masing grafik wajib dibuat dalam bentuk fungsi dengan input berupa data
 	4. Dashboard wajib memuat profil desa
@@ -61,13 +61,13 @@ Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9
 #### **Nama akun github: namadesa-ma2213**
 link web: **namadesa-ma2213.github.io**
 
-####Format Laporan
-1. Judul: Judul, nama mata kuliah, identitas kelompok, tahun, prodi, jurusan, dst
-2. Bab I Pendahuluan
-3. Bab II Profil Desa
-4. Bab III Deskripsi Data dan Hasil (memuat uraian data, menceritakan informasi dari data yang ada)
-    a. Data-Data Kependudukan
-    b. Tampilan Dashboard
+#### Format Laporan
+	1. Judul: Judul, nama mata kuliah, identitas kelompok, tahun, prodi, jurusan, dst
+	2. Bab I Pendahuluan
+	3. Bab II Profil Desa
+	4. Bab III Deskripsi Data dan Hasil (memuat uraian data, menceritakan informasi dari data yang ada)
+		4.1. Data-Data Kependudukan
+		4.2. Tampilan Dashboard
 
 #### Lampiran
 
@@ -80,7 +80,7 @@ link web: **namadesa-ma2213.github.io**
 
 
 #### Informasi Desa
-
+		
 	1. Deskripsi, koordinat, batas desa, peta,
 	2. Luas desa
 
@@ -96,8 +96,9 @@ link web: **namadesa-ma2213.github.io**
 	7. Kepadatan penduduk
   
 #### Ketentuan-ketentuan lain terkait data:
-1. Data dibuat dalam Google Spreadsheet
-2. Data pada web diakses melalui link google speadsheet
+	
+	1. Data dibuat dalam Google Spreadsheet
+	2. Data pada web diakses melalui link google speadsheet
 
 #### SOP Kunjungan/Permohonan Data:
 
@@ -108,7 +109,7 @@ link web: **namadesa-ma2213.github.io**
 	5. Melakukan dokumentasi
 
 
-Komponen Penilaian:
+#### Komponen Penilaian:
 
 	1. Program (Keberhasilan, originalitas program) 25%
 	2. Tampilan Dashboard (kejelasan, memuat informasi relevan, pemilihan warna) 25%
