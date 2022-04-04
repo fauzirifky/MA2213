@@ -40,6 +40,88 @@ Visualisasi data kependudukan dalam _dashboard_ (website). Melalui tugas besar i
 3. mampu membuat laman dashboard yang bisa diakses secara publik.
 
 Berkas-berkas terkait: [Formulir permohonan data](https://github.com/rifkyfauzi9/MA2213/blob/gh-pages/Surat%20Pengantar%20Permohonan%20Izin%20Pengambilan%20Data%20ver2.docx?raw=true)
+
+<details>
+  <summary>Tugas Besar 1 (UTS). Klik untuk melihat lebih lanjut</summary>
+  
+[31/03 17.40] Rifky FauziUTS Visualisasi dalam Sains
+    
+#### Website Dashboard Data Desa
+  1. Membuat Dashboard Data Kependudukan
+	2. Membuat Laporan
+	3. Melakukan Permohonan Data
+
+#### Ketentuan Dashboard:
+  1. Dashboard wajib memuat tampilan grafik data kependudukan desa (minimal 5 jenis data)
+	2. Masing-masing grafik wajib memuat informasi seperti judul, sumbu grafik, dan legenda
+	3. Masing-masing grafik wajib dibuat dalam bentuk fungsi dengan input berupa data
+	4. Dashboard wajib memuat profil desa
+	5. Dashboard wajib memuat struktur organisasi desa (dapat berupa gambar yang disematkan)
+	6. Dashboard wajib memuat tampilan peta desa tersebut.* akan diberi tahu, API: openlayers.org
+	7. Dashboard diupload ke akun github yang dibuat khusus bersesuaian nama desa sehingga tautan dahsboard tersebut
+	8. Dashboard wajib ditulis dengan menggunakan modul P5.JS. Jika diperlukan dapat menggunakan librari tambahan seperti D3.js dan Chart.js
+
+#### **Nama akun github: namadesa-ma2213**
+link web: **namadesa-ma2213.github.io**
+
+####Format Laporan
+1. Judul: Judul, nama mata kuliah, identitas kelompok, tahun, prodi, jurusan, dst
+2. Bab I Pendahuluan
+3. Bab II Profil Desa
+4. Bab III Deskripsi Data dan Hasil (memuat uraian data, menceritakan informasi dari data yang ada)
+    a. Data-Data Kependudukan
+    b. Tampilan Dashboard
+
+#### Lampiran
+
+	1. Dokumentasi: pengambilan data
+	2. Dokumentasi: penyampaian dashboard ke pihak desa
+	3. Dokumentasi: rapat penyusunan tugas besar
+	4. Logbook Kegiatan (masing-masing anggota)
+	5. Kode Sumber (*Source Code*)
+
+
+
+#### Informasi Desa
+
+	1. Deskripsi, koordinat, batas desa, peta,
+	2. Luas desa
+
+
+#### Data-data Desa
+
+	1. Data penduduk tahunan
+	2. Data Jenis kelamin penduduk
+	3. Data Usia penduduk
+	4. Data pendidikan penduduk
+	5. Data pekerjaan penduduk
+	6. Data penganut agama
+	7. Kepadatan penduduk
+  
+#### Ketentuan-ketentuan lain terkait data:
+1. Data dibuat dalam Google Spreadsheet
+2. Data pada web diakses melalui link google speadsheet
+
+#### SOP Kunjungan/Permohonan Data:
+
+	1. Mengunjungi kantor desa pada hari dan jam kerja
+	2. Membawa surat permohonan pengambilan data
+	3. Mengenakan almamater
+	4. Menjalankan protokol kesehatan
+	5. Melakukan dokumentasi
+
+
+Komponen Penilaian:
+
+	1. Program (Keberhasilan, originalitas program) 25%
+	2. Tampilan Dashboard (kejelasan, memuat informasi relevan, pemilihan warna) 25%
+	3. Penulisan Laporan (Kesesuaian format, deskripsi pada masing-masing bab)  25%
+	4 .Penilaian Teman Sejawat 25%
+
+
+</details>
+
+
 #### Tugas Besar 2 (30%)
 Membangun program kawanan cerdas.
 
