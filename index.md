@@ -12,6 +12,7 @@ Pada beberapa kesempatan saya, seorang dosen, terkadang dituntut untuk menyajika
 <img src="https://github.com/rifkyfauzi9/MA2213/blob/gh-pages/demo_laju_berkaitan.gif" alt="zigzag" />
 
 Sebagai seorang yang mengajarkan Matematika, seorang Edukator perlu dibekali dengan konten-konten visual agar dapat mengomunikasikan Matematika agar dapat mudah dipahami oleh peserta didiknya. 
+
 #### _IT related_ (programmer, perancang _software_, ilmuwan data, visual artist, dst)
 Cukup jelas. Karena perkuliahan ini menggunakan bahasa pemrograman JavaScript otomatis mahasiswa akan memiliki sedikit pengalaman untuk "mencicipi" bahasa ini melalui pengalaman menyelesaikan masalah yang berkaitan dengan Matematika dan fenomena Sains.
 
