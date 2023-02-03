@@ -2,8 +2,8 @@
 
 Laman ini berisikan informasi terkait dengan perkuliahan Visualisasi dalam Sains.
 ### Pengantar
-"Mathematics posseses not only truth, but supreme beauty"
-Kecantikan matematika nampaknya tidak selalu bisa dinikmati oleh banyak orang tanpa bisa diterjemahkan dengan bahasa yang sederhana. Kecantikan Matematika perlu dipancarkan dengan proses-proses visual. Dengan memvisualisasikan Matematika, harapannya masyarakat umum atau bahkan diri kita sendiri sebagai seorang pembelajar bisa menguatkan pemahaman mengenai Matematika. Mata kuliah Visualisasi dalam Sains merupakan mata kuliah yang bertujuan untuk melengkapi mahasiswa program studi Matematika Institut Teknologi Sumatera dengan muatan materi visual. Beberapa objek Matematika seperti turunan, statistika dasar, dan peluang secara ringkas digunakan untuk mengkaji fenomena sains. 
+"Mathematics posseses not only truth, but supreme beauty"\
+Kecantikan matematika nampaknya tidak selalu bisa dinikmati oleh banyak orang tanpa bisa diterjemahkan dengan bahasa yang sederhana. Kecantikan Matematika perlu dipancarkan dengan proses-proses visual. Dengan memvisualisasikan Matematika, harapannya masyarakat umum atau bahkan diri kita sendiri sebagai seorang pembelajar bisa menguatkan pemahaman mengenai Matematika. Mata kuliah Visualisasi dalam Sains merupakan mata kuliah yang bertujuan untuk melengkapi mahasiswa program studi Matematika Institut Teknologi Sumatera dengan keterampilan untuk menyajikan objek matematika sebagai objek visual. Beberapa objek Matematika seperti turunan, statistika dasar, dan peluang secara ringkas digunakan untuk mengkaji fenomena sains. 
 
 Perkuliahan ini diperuntukkan bagi mahasiswa yang kelak akan berprofesi menjadi
 #### Edukator (Tutor, Guru atau Dosen)
@@ -17,12 +17,18 @@ Cukup jelas. Karena perkuliahan ini menggunakan bahasa pemrograman JavaScript ot
 
 ### Silabus
 1. Pemrograman dengan JavaScript
-2. Visualisasi objek dan data dengan p5.js
+2. Visualisasi objek (geometris) dan data dengan p5.js
 3. _Random walks_
 4. Gaya dan Gerak
 5. Gerak Osilasi
 6. Sistem Partikel
 7. Agen Otonom
+
+### Media Belajar
+1. Kelas luring ([Jadwal](https://jadwalMAGenap2223))
+2. Kelas asynchronous (e-learning) [kuliah.itera.ac.id](https://kuliah.itera.ac.id) \
+	Course ID : MA2213 Genap22-23 \
+	Enrollment key: natureofcode \
 
 ### Referensi
 1. [Shiffman, D. (2012). The nature of code. D. Shiffman. (Pustaka Utama)](https://natureofcode.com)
@@ -130,10 +136,10 @@ Membangun program kawanan cerdas.
 ### Perangkat yang dibutuhkan
 
 1. [Akun Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-2. [NodeJS](https://nodejs.org/en/download/)
-3. [P5.JS](https://p5js.org/download/)
+2. [P5.JS](https://p5js.org/download/)
+3. [Akun Editor P5JS](https://editor.p5js.org)
 4. [Visual Studio Code (editor teks)](https://code.visualstudio.com)
-6. [Git](https://git-scm.com/download/win)
+5. [Akun replit](https://replit.com)
 
 
 
