@@ -136,10 +136,10 @@ Membangun program kawanan cerdas.
 
 ### Perangkat yang dibutuhkan
 
-1. [Akun Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+1. [Visual Studio Code (editor teks)](https://code.visualstudio.com)
 2. [P5.JS](https://p5js.org/download/)
-3. [Akun Editor P5JS](https://editor.p5js.org)
-4. [Visual Studio Code (editor teks)](https://code.visualstudio.com)
+3. [Akun Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+4. [Akun Editor P5JS](https://editor.p5js.org)
 5. [Akun replit](https://replit.com)
 
 
